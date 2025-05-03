@@ -91,7 +91,8 @@ The contract implements several security measures:
 - Collateralized loans
 - Variable repayment schedules
 - Secondary market for loan trading
-- Interest rate algorithms based on credit scores
+- Interest rate algorithms based on credi!
+t scores
 - Multi-currency support
 - Escrow mechanisms for dispute resolution
 - Integration with decentralized identity solutions
@@ -101,3 +102,5 @@ Contract Address: CCDNQ3DSX4YMUFZ47QXI5YR3FCJVSUHAN3TFSBPGQRLYT7XFIJTQQLDQ
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+![Screenshot 2025-04-25 10![Screenshot 2025-04-25 103319](https://github.com/user-attachments/assets/8518138c-30c6-480f-9de7-5fa372dba909)
+5740](https://github.com/user-attachments/assets/98693c02-0812-4d8a-807c-4e07671421fa)
